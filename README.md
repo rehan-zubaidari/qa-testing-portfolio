@@ -4,7 +4,7 @@ Manual testing documentation for the Water Consumption Forecasting
 Web Application built with Flask and SQLAlchemy.
 
 ## Test Summary
-- Total test cases: 150
+- Total test cases: 157
 - Test result: All Passed
 - Testing type: Manual Testing
 - Application: Water Consumption Forecasting Web App
